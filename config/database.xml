@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<config>
+    <!-- nome do banco de dados -->
+    <database>serenscript</database>
+    <!-- Endereço do servidor de banco de dados -->	
+    <host>localhost</host>
+    <!-- Usuário do banco de dados -->	
+    <dbUser>root</dbUser>
+    <!-- Senha para acessar o banco de dados -->	
+    <dbPassword></dbPassword>
+    <!-- colação padrão para a saída dos dados do banco -->	
+    <dbColation>utf8</dbColation>
+</config>

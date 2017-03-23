@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<config>
+    <!-- Nome da tabela referente aos usuários -->
+    <usersTable>users</usersTable>
+    <!-- Coluna com o nome do login -->
+    <userColunm>user</userColunm>
+    <!-- coluna referente a senha cadastrada -->
+    <passwordColunm>password</passwordColunm>
+    <!-- primary key da tabela -->
+    <idColunm>cdUser</idColunm>
+
+</config>

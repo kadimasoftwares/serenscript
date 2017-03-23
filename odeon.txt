@@ -1,0 +1,6 @@
+A Serenscript é um projeto da kadima softwares que tem o objetivo de servir como ferramenta para auxiliar o desenvolvedor php na questão de acesso e manipulação dos dados no banco.
+
+A Serenscript funcionará a partir de módulos que poderão ser adicionados a API para a utilização de diversas funções, permitindo que você consiga gerenciar quais funcionalidades a API irá dispor.
+
+Cada versão da API terá um apelido. Está é a primeira versão beta da API (versão 0.1) e leva o nome de Odeon, uma das composições do pianista e compositor brasileiro Ernesto Nazareth. Cada versão beta levará o nome de uma música, e a versão final terá como apelido o nome do músico ou banda.
+
